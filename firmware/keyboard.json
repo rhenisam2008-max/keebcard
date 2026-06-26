@@ -1,0 +1,36 @@
+{
+    "manufacturer": "rhenisam2008-max",
+    "keyboard_name": "keebcard",
+    "maintainer": "rhenisam2008-max",
+    "development_board": "promicro_rp2040",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "oled": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP26", "GP27", "GP28"]
+        ]
+    },
+    "oled": {
+        "driver": "SSD1306"
+    },
+    "url": "https://github.com/rhenisam2008-max/keebcard",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0}
+            ]
+        }
+    }
+}
