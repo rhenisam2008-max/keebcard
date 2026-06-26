@@ -3,16 +3,17 @@
 A 3-key macropad keychain with an OLED display, built for Hack Club's Stardance event.
 
 ## Macropad Design
-![Macropad Render](path/to/your-render-screenshot.png)
+![Macropad Render](render.png)
 
 ## Schematic
-![Schematic](path/to/your-schematic-screenshot.png)
+![Schematic](schematic.png)
 
 ## PCB Layout
-![PCB Layout](path/to/your-pcb-screenshot.png)
+![PCB Layout](pcb_layout.png)
 
 ## Case (3D)
-![Case 3D View](path/to/your-case-3d-screenshot.png)
+![Case 3D Bottom View](bot_case.png)
+![Case 3D Top View](top_case.png)
 
 ## Bill of Materials
 
